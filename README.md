@@ -161,7 +161,8 @@ project type and functionality.
 <ol>
    <li>
       <strong>Clone the Repository:</strong>
-      <code> git clone https://github.com/NandhiniKesireddy/50_HTML_CSS_Projects.git</code>
+      <code> ```bash
+         git clone https://github.com/NandhiniKesireddy/50_HTML_CSS_Projects.git</code>
    </li>
    <li>
       <strong>Explore the Directory:</strong> Each project is stored in its own
