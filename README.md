@@ -212,3 +212,4 @@ If you have any questions or want to connect, find me on:
 </ul> 
 
 <strong>Happy Coding!</strong> 
+</hr>
