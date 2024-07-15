@@ -5,12 +5,11 @@ projects showcasing various techniques and concepts! This repository is designed
 to be a resource for developers and designers looking for inspiration and
 practical implementations.
 <h2>What's Inside?</h2>
-This repository contains 50+ projects spanning various domains:
+This repository contains 50+ projects spanning various domains and organized by
+project type and functionality.
 
 <h1>3D &amp; Animation Projects</h1>
 <h2>Projects</h2>
-This repository contains 50+ projects spanning various domains and organized by
-project type and functionality.
 <h3>3D Elements</h3>
 <ul>
    <li>
