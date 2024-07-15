@@ -207,7 +207,7 @@ This repository is licensed under the <a href="LICENSE">MIT License</a>.
 <h2>Contact</h2> 
 If you have any questions or want to connect, find me on: 
 <ul> 
-<li><strong>LinkedIn:</strong> linkedin.com/in/nandhini-kesireddy </li> 
+<li><strong>LinkedIn:</strong><a href="LinkedIn">linkedin.com/in/nandhini-kesireddy</a></li> 
 <li><strong>Email:</strong> kesireddynandhini99@gmail.com </li> 
 </ul> 
 
