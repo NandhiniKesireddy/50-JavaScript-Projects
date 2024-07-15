@@ -190,14 +190,14 @@ project type and functionality.
 Contributions to this repository are welcome! If you have a cool 3D or animation
 project you'd like to share, feel free to:
 <ol>
-   <li>
+   <ul>
       <strong>Submit a pull request:</strong> If you have code changes to share.
-   </li>
-   <li>Fork the repository.</li>
-   <li>Create a new branch for your project.</li>
-   <li>Add your files and code.</li>
-   <li>Commit your changes and push to your branch.</li>
-   <li>Submit a pull request.</li>
+      <li>Fork the repository.</li>
+      <li>Create a new branch for your project.</li>
+      <li>Add your files and code.</li>
+      <li>Commit your changes and push to your branch.</li>
+      <li>Submit a pull request.</li>
+   </ul>
    <li><strong>Open an issue:</strong> Report bugs or suggest improvements.</li>
 </ol>
 <h2>License</h2>
